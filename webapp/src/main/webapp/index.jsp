@@ -32,7 +32,6 @@
   </div>
 
    <h1> Thank you, 
-   <br>
    Happy Learning </h1>
 
   
